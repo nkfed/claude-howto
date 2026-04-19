@@ -873,3 +873,17 @@ MIT License - see [LICENSE](LICENSE). Free to use, modify, and distribute. The o
 **Last Updated**: March 2026
 **Claude Code Version**: 2.1+
 **Compatible Models**: Claude Sonnet 4.6, Claude Opus 4.6, Claude Haiku 4.5
+
+---
+
+## Jinny-S7 Local Context
+
+Цей репозиторій використовується як reference матеріал на сервері **Jinny-S7** для налаштування Claude/AI агентів.
+
+### Пов'язані репозиторії
+
+| Репо | Призначення |
+|------|-------------|
+| [Jinn-Clawdbot](https://github.com/nkfed/Jinn-Clawdbot) | Production agent Джинні 🧞 |
+| [Jinn-OpenClaw](https://github.com/nkfed/Jinn-OpenClaw) | OpenClaw agent Клешня 🦞 |
+| [Jinn-server-foundation-rules](https://github.com/nkfed/Jinn-server-foundation-rules) | Server codex, workspace registry |
